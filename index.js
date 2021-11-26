@@ -7,4 +7,7 @@ if(true){
 }
 else {
     let z = 3;
+    if(true){
+        let k = 2;
+    }
 }
